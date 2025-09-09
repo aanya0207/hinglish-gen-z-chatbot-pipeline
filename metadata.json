@@ -1,0 +1,5 @@
+
+{
+  "name": "Hinglish Gen-Z Chatbot Pipeline",
+  "description": "An interactive web application that visualizes a multi-agent AI pipeline for processing Hinglish queries and generating responses in a Gen-Z tone, powered by the Gemini API."
+}
