@@ -19,5 +19,18 @@
     "@types/node": "^22.18.1",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanya0207/hinglish-gen-z-chatbot-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aanya0207/hinglish-gen-z-chatbot-pipeline/issues"
+  },
+  "homepage": "https://github.com/aanya0207/hinglish-gen-z-chatbot-pipeline#readme"
 }
